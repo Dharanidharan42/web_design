@@ -1,0 +1,166 @@
+a*{
+    padding: 0;
+    margin: 0;
+}
+.motta{
+    border: 100% ; 
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0;
+
+
+}
+.sign{
+    width: 70px;
+    height: 50px;
+    font-size: medium;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+li{
+    margin-left: 50px;
+    list-style: none;
+    padding: 0;
+}
+li:hover{
+    text-decoration-line: underline;
+    color: red;
+}
+button{
+    background-color: yellow;
+    size: 40px;
+    border-radius: 30px;
+}
+main{
+
+}
+.explore{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.may{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap:nowrap;
+    justify-content: space-evenly;
+    margin-top: 40px;
+
+
+}
+.in{
+    width: 300px;
+    height: 250px;
+    margin-top: 40px;
+
+}
+.gigloo{
+    background-color: skyblue;
+
+}
+.rose{
+ 
+    margin-top: 40px;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    border-style: groove;
+    background-color: blue;
+    width: 50%;
+
+
+}
+.glass{
+    border-radius: 20px;
+    width: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.ro{
+    margin-left: 40px;
+}
+.water{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.fo{
+    display: flex;
+}
+.tool{
+    display: flex  ;
+    flex-wrap: wrap;
+    position: relative;
+    left: 600px;
+    margin-top: -200px;
+    width: 10px;
+    height: 50px;
+    margin-top: -90px;
+    margin-right: 100px;
+
+    
+}
+.n{
+    margin-top: 40px ;
+    position: absolute;
+}
+.ra{
+    margin-left: -80px;
+    position: absolute;
+
+}
+.de{
+    margin-left: 600px;
+    font-size: x-large;
+    margin-top: -30px;
+    position: absolute;
+
+}
+.vi{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.ero{
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: auto;
+    margin-top: -125px;
+    z-index: -1;
+    height: 200px;
+    width: 400px;
+}
+.hre{
+    margin-left: 525px;
+    margin-top: 10px;
+
+}
+.gio{
+    margin-left: 525px;
+    margin-top: -30px;
+}
+.gp{
+    margin-left: 72%;
+    margin-top: -115px;
+}
+.ji{
+    margin-left: 77% ;
+    margin-top: -50px;
+}
+.lo{
+    margin-left: 71%;
+    margin-top: 10px;
+    position: absolute;
+
+}
+.re{
+    margin-left: 72%;
+
+}
